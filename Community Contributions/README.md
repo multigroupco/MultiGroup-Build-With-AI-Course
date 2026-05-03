@@ -18,6 +18,7 @@ MultiGroup olarak tüm içeriklerimizi ve projelerimizi mümkün olduğunca aç�
 - [Sertifika programı için başvuru sayfası](https://togather.lodos.io/events/build-with-ai-certification-program-2026-64977629554876323476) - Serkan Alc
 - [Eğitim serisi video oynatma listesi](https://www.youtube.com/playlist?list=PLQvJkakaBRKdFM5xratmxXh65IKc66d1E) - Serkan Alc
 - [Billing_Account_Isim_Degistirme](https://docs.google.com/document/d/1IeFl5SjXwK6I0NYFYfPcGq-4CCxNoqo9NbdJwoaprEo/edit?usp=share_link) - M Çağrı Özkan
+- [DMG Build with AI Workshop Kredi Doğrulama](https://docs.google.com/document/d/1QkzkjTRvZqxxppqk_326Bkcm35VZwepQM0DeYzP_rqk/edit?usp=sharing) - Uğur İpekdüzen
 
 ### 📌 İşinize Yarayabilecek Kaynaklar
 
