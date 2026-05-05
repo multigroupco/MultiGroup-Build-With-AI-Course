@@ -42,7 +42,7 @@ Bir şeyler öğrenirken motivasyonu korumak ve yola devam etmek bazen zorlaşab
 ### 📌 Aşama 1: Orta Sevite Eğitimler & Projeler
 
 <p>
-<!-- ORta Seviye --><!-- Oturum 1 -->
+<!-- Orta Seviye --><!-- Oturum 1 -->
  <a><img height="20" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
     <span style="vertical-align: middle;">
      <a href="https://www.youtube.com/watch?v=zpVxGPpjkAg" style="text-decoration:none;">Getting Started with Google Antigravity</a>&nbsp;&nbsp
@@ -91,7 +91,7 @@ Bir şeyler öğrenirken motivasyonu korumak ve yola devam etmek bazen zorlaşab
 <!-- Oturum 2 -->
  <a><img height="20" src="https://github.com/user-attachments/assets/3d058656-3a7c-4053-b280-790882f4e3f0"align="center"/></a>&nbsp;
     <span style="vertical-align: middle;">
-     <a style="text-decoration:none;">Google's Agent Stack in Action:ADK, A2A, MCP on Google Cloud</a>&nbsp;&nbsp
+     <a href="https://www.youtube.com/watch?v=3ppfy2AR5Dk" style="text-decoration:none;">Google's Agent Stack in Action:ADK, A2A, MCP on Google Cloud</a>&nbsp;&nbsp
      -Hayati Enes Basat
     </span>
 </p>
