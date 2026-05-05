@@ -53,7 +53,7 @@ Bir şeyler öğrenirken motivasyonu korumak ve yola devam etmek bazen zorlaşab
  <a><img height="20" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
     <span style="vertical-align: middle;">
      <a href="https://www.youtube.com/watch?v=tzAvPtk5dfU" style="text-decoration:none;">Evaluating Agents with ADK</a>&nbsp;&nbsp
-     -Nusret Özateş
+     -Evren Özkip
     </span>
 </p>
 <!-- Oturum 3 -->
