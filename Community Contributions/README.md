@@ -30,6 +30,7 @@ MultiGroup olarak tüm içeriklerimizi ve projelerimizi mümkün olduğunca aç�
 - ["Getting Started with Google Antigravity" oturum dökümanı](https://codelabs.developers.google.com/getting-started-google-antigravity?hl=tr#0) - Serkan Alc
 - [Google Antigravity resmi YouTube kanalı](https://www.youtube.com/@googleantigravity?hl=tr&skip_registered_account_check=true) - Delal Kolcu
 - [Google Antigravity kullanım alanları](https://antigravity.google/use-cases) - Delal Kolcu
+- [Gemini Skills](https://github.com/google-gemini/gemini-skills) - Serkan Alc
 
 
 
