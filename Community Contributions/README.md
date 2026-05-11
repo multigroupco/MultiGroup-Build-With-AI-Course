@@ -19,6 +19,7 @@ MultiGroup olarak tüm içeriklerimizi ve projelerimizi mümkün olduğunca aç�
 - [Eğitim serisi video oynatma listesi](https://www.youtube.com/playlist?list=PLQvJkakaBRKdFM5xratmxXh65IKc66d1E) - Serkan Alc
 - [Billing_Account_Isim_Degistirme](https://docs.google.com/document/d/1IeFl5SjXwK6I0NYFYfPcGq-4CCxNoqo9NbdJwoaprEo/edit?usp=share_link) - M Çağrı Özkan
 - [DMG Build with AI Workshop Kredi Doğrulama](https://docs.google.com/document/d/1QkzkjTRvZqxxppqk_326Bkcm35VZwepQM0DeYzP_rqk/edit?usp=sharing) - Uğur İpekdüzen
+- [Google Cloud Skills Boost Kredi Doğrulama ve Kısır Döngü (Loop) Sorunu Çözümü](https://docs.google.com/document/d/1Gq1x2ud-1Kxtyxlpfc8VNaWLAZiBryvQoOYvXGxoQ4s/edit?tab=t.0) - Enes Furkan Özdemir
 
 ### 📌 İşinize Yarayabilecek Kaynaklar
 
